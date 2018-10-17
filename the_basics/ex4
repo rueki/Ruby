@@ -1,0 +1,2 @@
+movie_years = [ 1985, 1991, 1984, 1993]
+movie_years.each {|year| puts "#{year}"}

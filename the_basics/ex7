@@ -1,0 +1,1 @@
+puts "The programmer mistakenly used a closing parentheses instead of a closing curly brace, or they possibly just forgot the closing curly brace."

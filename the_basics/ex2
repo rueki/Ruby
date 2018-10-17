@@ -1,0 +1,8 @@
+thousands = 8395 / 1000
+puts thousands
+hundreds = 8395 % 1000 / 100
+puts hundreds
+tens = 8395 % 100 / 10
+puts tens
+ones = 8395 % 10
+puts ones

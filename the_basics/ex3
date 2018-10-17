@@ -1,0 +1,7 @@
+movies = { 
+  Clue: 1985, 
+  Addams_Family: 1991, 
+  Ghostbusters: 1984,
+  Hocus_Pocus: 1993,
+}
+movies.each { |movie, year| puts "#{year}" }
