@@ -1,0 +1,1 @@
+# In the first hash, x is a symbol. In the second hash, x is a variable for the string, "hi there".
